@@ -1,0 +1,9 @@
+Database Name: onlinefoodphp
+
+Developed by Coding Peers Team
+
+Admin Login Details
+
+Username: admin
+Password: sandip@123
+
